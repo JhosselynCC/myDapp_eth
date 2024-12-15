@@ -1123,7 +1123,7 @@ const deployedContracts = {
   },
   11155111: {
     SimpleDEX: {
-      address: "0x1C0c0607ECF1804476e4F20543d6582381DfC784",
+      address: "0x3d28D7e76DA458bE76d92c5c42224e9a0dC4DA0A",
       abi: [
         {
           inputs: [
@@ -1389,7 +1389,7 @@ const deployedContracts = {
       inheritedFunctions: {},
     },
     TokenA: {
-      address: "0x79c56084db1Ccef23B85CCc46D4a03857DaeA484",
+      address: "0x30E61dc96CacAa6dcBD18171fCfa96e74cbD746A",
       abi: [
         {
           inputs: [],
@@ -1813,7 +1813,7 @@ const deployedContracts = {
       },
     },
     TokenB: {
-      address: "0x5e7bF2a3b07d84bcA5c85A1E8cE973A950170faA",
+      address: "0xE04F37A38da3e7EB68B88654CFF8306a6F851a71",
       abi: [
         {
           inputs: [],
